@@ -227,3 +227,16 @@ header {
     text-decoration: none;
     color:#86045F
 } 
+
+.foto-card {
+    width: 300px;
+    z-index: 1;
+}
+
+.fotos-maquete {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+}
